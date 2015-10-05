@@ -2,3 +2,7 @@
   text-align: right;
   margin-right: 660px
 }
+
+.shortcut_icon {
+  background-color: rgba(0,0,0,.5);
+}
