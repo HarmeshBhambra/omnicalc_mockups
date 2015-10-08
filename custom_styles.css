@@ -1,3 +1,5 @@
 .shortcut_icon {
   background-color: rgba(0,0,0,.5);
 }
+
+.dl-horizontal dt{white-space: normal;word-wrap:break-word;}
